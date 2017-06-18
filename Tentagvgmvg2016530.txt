@@ -1,0 +1,13 @@
+Resultat Tentagvgmvg2016530.txt
+
+Maxpo�ng 40                            
+G Gr�ns 10                            
+VG Gr�ns 15                            
+
+Namn                           Po�ng      Betyg
+==============================================================
+adam                           15         VG
+johan                          15         VG
+
+
+Genomsnittspo�ng: 15.0

@@ -1,0 +1,13 @@
+Resultat 1232016530.txt
+
+Maxpo�ng 50                            
+G Gr�ns 20                            
+VG Gr�ns 40                            
+
+Namn                           Poäng      Betyg
+==============================================================
+123                            50         VG
+456                            45         VG
+
+
+Genomsnittspoäng: 47.0
